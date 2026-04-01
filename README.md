@@ -17,7 +17,7 @@ It demonstrates my ability to:
 
 ## 🎯 Internship Context
 
-This project was developed as part of my internship under **WebDev Nova Squad**.
+This project was developed as part of my internship under **WebDev Noah Squad**.
 
 * 📋 Assigned as a real-world task
 * 👨‍💻 Built independently following provided documentation
